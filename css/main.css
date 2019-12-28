@@ -1068,7 +1068,7 @@ button:focus {
       margin: 4px;
       background: #fff; }
     #team .single-team .team-social-icons ul.social-list li:hover {
-      background: #3ecf8e;
+      background: #3A9DC7;
       -moz-transition: all .4s ease;
       -webkit-transition: all .4s ease;
       border-color: #3ecf8e;
@@ -1081,7 +1081,7 @@ button:focus {
       -webkit-transition: all .4s ease;
       transition: all .4s ease; }
     #team .single-team .team-social-icons ul.social-list li a i {
-      color: #3ecf8e;
+      color: #3A9DC7;
       font-size: 16px; }
   #team .single-team:hover {
     box-shadow: 0px 0px 25px 0px rgba(95, 95, 95, 0.24);
